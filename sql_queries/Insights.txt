@@ -1,0 +1,24 @@
+🏆 Brand Dominance
+Logitech is the undisputed market leader, and when you combine "Logitech" and "Logitech G" they own 22 of 56 products — nearly 40% of the market. Razer is a distant second with 9 products but commands the highest average price. Budget brands like Tecknet and Seenda are punching well above their weight with high ratings and massive review counts, suggesting the budget segment is more competitive than it appears.
+
+💰 Price Tier Performance
+The mid-range ($40-$69) is the weakest segment — lowest rating (4.30) and lowest engagement. This is the classic "dead zone" where products are too expensive to win on price but not premium enough to justify the cost. Budget and entry-level dominate in volume and engagement. Brands entering this market should target either under $40 or over $70 — the middle is a difficult place to compete.
+
+📶 Wireless vs Wired
+Despite wireless dominating in product count (47 vs 9), wired mice actually rate slightly higher (4.49 vs 4.45) at a lower price point ($35 vs $48). This suggests serious gamers still value wired for performance, and those buyers tend to leave more positive, detailed reviews. A new brand shouldn't assume wireless is the only path to success.
+
+🔥 Top Products by Engagement
+Budget mice completely dominate the top 10 most engaged products. The Seenda wireless mouse at $9.98 outperforms every Razer and premium Logitech product in engagement. The only true gaming mouse in the top 10 is the Logitech G502 Hero at $35.99 — suggesting that the sweet spot for gaming mice is under $40. High review volume is driven by price accessibility, not brand prestige or product quality.
+
+🌈 RGB Impact
+RGB adds a 52% price premium ($65 vs $43) but delivers virtually no rating advantage (4.47 vs 4.46). Customers are paying significantly more for RGB lighting but aren't rating those products any higher. For a new brand, RGB is a risky investment — it increases cost without improving perceived quality or customer satisfaction.
+
+🗺️ Brand Positioning
+The market has two clear winning strategies:
+
+Premium performance — Logitech G's approach: charge $93, deliver 4.54 rated products, build a loyal enthusiast base
+Budget volume — Tecknet's approach: charge $15, maintain 4.53 ratings, accumulate 104k reviews through sheer accessibility
+
+Razer sits uncomfortably in between — premium pricing without premium ratings. Any new brand entering this market should pick a lane clearly rather than trying to compete in the middle.
+
+The overarching finding: Success on Amazon's gaming mice market is driven by either dominant brand trust at scale (Logitech) or exceptional value at budget price points. The mid-range and RGB premium segments are the hardest places to compete.
