@@ -25,7 +25,7 @@ An end-to-end data analytics pipeline that scrapes Amazon gaming mouse listings,
 | 2b. Database Load | Python (psycopg2) | `scripts/load_to_postgres.py` | PostgreSQL `gaming_mice` table |
 | 3. SQL Analysis | PostgreSQL | `sql_queries/01–06_*.sql` | Query results + `Insights.txt` |
 | 4. AI Insights | Anthropic API (Claude) | `scripts/ai_insights.py` | `data/ai_outputs/ai_features.csv`, `ai_summaries.csv` |
-| 5. Visualization | Tableau Public | — | [Dashboard Link](#tableau-dashboard) |
+| 5. Visualization | Tableau Public | — | [[Dashboard Link](https://public.tableau.com/app/profile/tyler.thomas5812/viz/AmazonMice/Whatittakestowinateachpricetier-AmazonMiceAnalysis)](#tableau-dashboard) |
 
 ---
 
