@@ -108,7 +108,7 @@ Import `fixed_gaming_mice_clean.csv` into Tableau Public and build the dashboard
 
 ## Tableau Dashboard
 
-> *[Link to published Tableau Public dashboard — add after publishing]*
+> [View the Dashboard on Tableau Public](https://public.tableau.com/views/AmazonMice/Whatittakestowinateachpricetier-AmazonMiceAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 The dashboard answers **"What does it take to win at each price tier?"** through four charts:
 1. **Competitive Landscape** — Product count by price tier
